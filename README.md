@@ -43,6 +43,20 @@ B.E. in **Artificial Intelligence and Data Science** (CMR Institute of Technolog
 
 <br/>
 
+## ML / DL Focus
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Vibhin-818/Vibhin-818/main/assets/neural-net.svg" width="100%" alt="Machine Learning and Deep Learning pipeline" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Machine+Learning+%E2%80%94+regression%2C+classification%2C+ensembles;Deep+Learning+%E2%80%94+CNNs%2C+training%2C+transfer+learning;NLP+%2B+LLM+Applications+%E2%80%94+RAG%2C+embeddings%2C+prompting;Computer+Vision+%E2%80%94+YOLOv8+detection+at+95%25+accuracy" alt="ML and DL focus" />
+
+</div>
+
+<br/>
+
 ## GitHub Analytics
 
 <div align="center">
@@ -71,6 +85,28 @@ B.E. in **Artificial Intelligence and Data Science** (CMR Institute of Technolog
 | **[Supernan AI Dubbing](https://github.com/Vibhin-818/supernan-ai-dubbing-pipeline)** | English/Kannada to Hindi video dubbing pipeline with voice cloning and lip-sync | `Whisper` `PyTorch` `Coqui TTS` `Wav2Lip` |
 | **[Order Supervisor](https://github.com/Vibhin-818/order-supervisor)** | Agentic order-monitoring workflow with durable execution and a live dashboard | `Temporal` `NVIDIA NIM` `FastAPI` `Next.js` |
 | **[RAG PDF Analyzer](https://github.com/Vibhin-818/rag-pdf-analyzer)** | Document question-answering over PDFs with embeddings and retrieval | `LangChain` `ChromaDB` `OpenAI` `Django` |
+
+<br/>
+
+## Certifications & Achievements
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1100&color=A78BFA&center=true&vCenter=true&width=780&lines=Machine+Learning+using+Python+%7C+Simplilearn+2026;Supervised+Machine+Learning+%26+Deep+Learning+%7C+Scaler+2026;AI+Agents+Course+%7C+Hugging+Face+2026;Pre+Security+Course+%7C+TryHackMe+2026" alt="Certifications" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning%20using%20Python-Simplilearn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning using Python - Simplilearn" />
+<img src="https://img.shields.io/badge/Supervised%20ML%20%26%20Deep%20Learning-Scaler-0EA5E9?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Supervised ML and Deep Learning - Scaler" />
+<img src="https://img.shields.io/badge/AI%20Agents%20Course-Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" alt="AI Agents - Hugging Face" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Pre%20Security-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Pre Security - TryHackMe" />
+<img src="https://img.shields.io/badge/Top%206%20Finalist-Hack--Fista%20Hackathon%202025-7C3AED?style=for-the-badge&logo=devpost&logoColor=white" alt="Top 6 Finalist Hack-Fista" />
+<img src="https://img.shields.io/badge/1st%20Place-Mini--Project%20Competition%202024-0EA5E9?style=for-the-badge&logo=googlescholar&logoColor=white" alt="1st Place Mini-Project Competition" />
+
+</div>
 
 <br/>
 
