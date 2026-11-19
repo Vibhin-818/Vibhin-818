@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 260" width="960" height="260" role="img" aria-label="Machine Learning and Deep Learning pipeline">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="0.5" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0EA5E9" stop-opacity="0.0"/>
+      <stop offset="0.5" stop-color="#0EA5E9"/>
+      <stop offset="1" stop-color="#0EA5E9" stop-opacity="0.0"/>
+    </linearGradient>
+    <radialGradient id="node" cx="35%" cy="30%" r="75%">
+      <stop offset="0" stop-color="#7dd3fc"/>
+      <stop offset="1" stop-color="#0284c7"/>
+    </radialGradient>
+    <radialGradient id="node2" cx="35%" cy="30%" r="75%">
+      <stop offset="0" stop-color="#c4b5fd"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </radialGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="958" height="258" rx="18" fill="url(#bg)" stroke="#1e293b" stroke-width="1.5"/>
+
+  <g opacity="0.35" fill="#334155">
+    <circle cx="60" cy="40" r="1.4"/><circle cx="140" cy="30" r="1.4"/><circle cx="240" cy="46" r="1.4"/>
+    <circle cx="700" cy="34" r="1.4"/><circle cx="820" cy="44" r="1.4"/><circle cx="900" cy="30" r="1.4"/>
+    <circle cx="70" cy="220" r="1.4"/><circle cx="190" cy="232" r="1.4"/><circle cx="760" cy="226" r="1.4"/>
+    <circle cx="880" cy="214" r="1.4"/><circle cx="470" cy="24" r="1.4"/>
+  </g>
+
+  <text x="480" y="46" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="700" letter-spacing="4" fill="url(#title)">
+    MACHINE LEARNING / DEEP LEARNING
+    <animate attributeName="opacity" values="0.65;1;0.65" dur="5s" repeatCount="indefinite"/>
+  </text>
+  <text x="480" y="70" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="11.5" fill="#7c8aa5" letter-spacing="1.5">
+    PYTORCH - TENSORFLOW - SCIKIT-LEARN - NLP - COMPUTER VISION
+  </text>
+
+  <g stroke="#1f2b3f" stroke-width="1.2">
+    <path d="M175 118 L335 100"/><path d="M175 118 L335 150"/><path d="M175 118 L335 200"/>
+    <path d="M175 172 L335 100"/><path d="M175 172 L335 150"/><path d="M175 172 L335 200"/>
+    <path d="M335 100 L495 118"/><path d="M335 100 L495 172"/>
+    <path d="M335 150 L495 118"/><path d="M335 150 L495 172"/>
+    <path d="M335 200 L495 118"/><path d="M335 200 L495 172"/>
+    <path d="M495 118 L655 132"/><path d="M495 172 L655 132"/>
+    <path d="M655 132 L815 132"/>
+    <path d="M495 118 L655 190"/><path d="M495 172 L655 190"/>
+    <path d="M655 190 L815 132"/>
+  </g>
+
+  <g fill="none" stroke="url(#cyan)" stroke-width="2" stroke-linecap="round" stroke-dasharray="26 190">
+    <path d="M175 118 L335 100 L495 118 L655 132 L815 132">
+      <animate attributeName="stroke-dashoffset" values="216;0" dur="3.2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M175 172 L335 200 L495 172 L655 190 L815 132">
+      <animate attributeName="stroke-dashoffset" values="216;0" dur="3.8s" repeatCount="indefinite"/>
+    </path>
+    <path d="M175 118 L335 150 L495 172 L655 132 L815 132">
+      <animate attributeName="stroke-dashoffset" values="216;0" dur="4.4s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <g filter="url(#glow)">
+    <circle cx="175" cy="118" r="9" fill="url(#node)">
+      <animate attributeName="r" values="9;11;9" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="175" cy="172" r="9" fill="url(#node)">
+      <animate attributeName="r" values="11;9;11" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="335" cy="100" r="8" fill="url(#node2)">
+      <animate attributeName="opacity" values="0.7;1;0.7" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="335" cy="150" r="8" fill="url(#node2)">
+      <animate attributeName="opacity" values="1;0.7;1" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="335" cy="200" r="8" fill="url(#node2)">
+      <animate attributeName="opacity" values="0.8;1;0.8" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="495" cy="118" r="10" fill="url(#node)">
+      <animate attributeName="r" values="10;12.5;10" dur="3.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="495" cy="172" r="10" fill="url(#node)">
+      <animate attributeName="r" values="12.5;10;12.5" dur="3.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="655" cy="132" r="9" fill="url(#node2)">
+      <animate attributeName="opacity" values="0.75;1;0.75" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="655" cy="190" r="9" fill="url(#node2)">
+      <animate attributeName="opacity" values="1;0.75;1" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="815" cy="132" r="13" fill="url(#node)">
+      <animate attributeName="r" values="13;16;13" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <circle r="3.2" fill="#e0f2fe">
+    <animateMotion dur="3.2s" repeatCount="indefinite" path="M175 118 L335 100 L495 118 L655 132 L815 132"/>
+  </circle>
+  <circle r="3.2" fill="#ddd6fe">
+    <animateMotion dur="3.8s" repeatCount="indefinite" path="M175 172 L335 200 L495 172 L655 190 L815 132"/>
+  </circle>
+
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#64748b" text-anchor="middle" letter-spacing="1">
+    <text x="175" y="228">DATA</text>
+    <text x="335" y="228">FEATURES</text>
+    <text x="495" y="228">MODEL</text>
+    <text x="655" y="228">EVALUATE</text>
+    <text x="815" y="228">PREDICT</text>
+  </g>
+</svg>
