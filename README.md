@@ -24,7 +24,7 @@ B.E. in Artificial Intelligence and Data Science, CMR Institute of Technology (2
 | [Endee RAG](https://github.com/Vibhin-818/endee-rag) | Local document question-answering on Google Cloud, powered by a custom C++ vector engine and 40% lower query latency |
 | [Supernan AI Dubbing](https://github.com/Vibhin-818/supernan-ai-dubbing-pipeline) | English/Kannada to Hindi video dubbing pipeline - Whisper, Coqui XTTS v2, Wav2Lip and GFPGAN |
 | [Order Supervisor](https://github.com/Vibhin-818/order-supervisor) | Agentic order-monitoring workflow with Temporal, NVIDIA NIM, FastAPI and a Next.js dashboard |
-| [RAG PDF Analyzer](https://github.com/Vibhin-818/RAG-PDF-ANALYZER-USING-OPEN-AI-CHROMADB-LANGCHAIN-DJANGO-1) | Document question-answering with OpenAI, ChromaDB, LangChain and Django |
+| [RAG PDF Analyzer](https://github.com/Vibhin-818/rag-pdf-analyzer) | Document question-answering with OpenAI, ChromaDB, LangChain and Django |
 
 ### Currently exploring
 
