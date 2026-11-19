@@ -88,7 +88,7 @@ B.E. in **Artificial Intelligence and Data Science** (CMR Institute of Technolog
 
 <br/>
 
-## Certifications & Achievements
+## Certifications
 
 <div align="center">
 
@@ -98,13 +98,11 @@ B.E. in **Artificial Intelligence and Data Science** (CMR Institute of Technolog
 
 <img src="https://img.shields.io/badge/Machine%20Learning%20using%20Python-Simplilearn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning using Python - Simplilearn" />
 <img src="https://img.shields.io/badge/Supervised%20ML%20%26%20Deep%20Learning-Scaler-0EA5E9?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Supervised ML and Deep Learning - Scaler" />
-<img src="https://img.shields.io/badge/AI%20Agents%20Course-Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" alt="AI Agents - Hugging Face" />
 
 <br/>
 
+<img src="https://img.shields.io/badge/AI%20Agents%20Course-Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black" alt="AI Agents - Hugging Face" />
 <img src="https://img.shields.io/badge/Pre%20Security-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Pre Security - TryHackMe" />
-<img src="https://img.shields.io/badge/Top%206%20Finalist-Hack--Fista%20Hackathon%202025-7C3AED?style=for-the-badge&logo=devpost&logoColor=white" alt="Top 6 Finalist Hack-Fista" />
-<img src="https://img.shields.io/badge/1st%20Place-Mini--Project%20Competition%202024-0EA5E9?style=for-the-badge&logo=googlescholar&logoColor=white" alt="1st Place Mini-Project Competition" />
 
 </div>
 
